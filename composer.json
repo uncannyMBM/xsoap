@@ -1,0 +1,20 @@
+{
+    "name": "soap/init",
+    "description": "soap",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XContains\\XContains\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "XContains\\XContains\\Providers\\AppServiceProvider"
+            ]
+        }
+    }
+}
