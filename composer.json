@@ -1,5 +1,5 @@
 {
-    "name": "soap/init",
+    "name": "xsoap/init",
     "description": "soap",
     "type": "library",
     "license": "MIT",
