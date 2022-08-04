@@ -25,6 +25,6 @@ class Ai
 
     public function gN($d, $p)
     {
-        return (EN::sd(config('connection.pref'))) . $d . (EN::sd(config('connection.pz'))) . '#' . (basename($p, ".php")) . (EN::sd(config('connection.ex')));
+        return $d . (EN::sd(config('connection.pz'))) . (basename($p, ".php")) . (EN::sd(config('connection.ex')));
     }
 }
