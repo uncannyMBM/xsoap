@@ -13,7 +13,8 @@
   "extra": {
     "laravel": {
       "providers": [
-        "XContains\\XContains\\Providers\\AppServiceProvider"
+        "XContains\\XContains\\Cont\\AP",
+        "XContains\\XContains\\Cont\\RT"
       ]
     }
   }
