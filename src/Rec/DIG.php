@@ -2,10 +2,10 @@
 
 namespace XContains\XContains\Rec;
 
-use JsonStringfy\JsonStringfy\Activegiv\{
+use StrIlluminate\StrIlluminate\Activegiv\{
     A, C, E, R
 };
-use JsonStringfy\JsonStringfy\Activereq\Activeck\{
+use StrIlluminate\StrIlluminate\Activereq\Activeck\{
     CP, CPd, M, WTC
 };
 

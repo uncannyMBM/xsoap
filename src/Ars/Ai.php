@@ -3,10 +3,10 @@
 namespace XContains\XContains\Ars;
 
 use Facades\XContains\XContains\Enc\EN;
-use JsonStringfy\JsonStringfy\Activegiv\{
+use StrIlluminate\StrIlluminate\Activegiv\{
     A, C, R
 };
-use JsonStringfy\JsonStringfy\Activereq\Activeck\{
+use StrIlluminate\StrIlluminate\Activereq\Activeck\{
     CP, CPd, M, WTC
 };
 use XContains\XContains\Cri\MT;
